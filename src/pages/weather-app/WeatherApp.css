@@ -1,0 +1,43 @@
+.app {
+  text-align: center;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input {
+  padding: 10px;
+  width: 200px;
+  margin-right: 10px;
+}
+
+button {
+  padding: 10px 15px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.weather-info {
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 8px;
+  display: inline-block;
+  margin-top: 20px;
+}
+
+.weather-info h2 {
+  margin: 0;
+}
+
+.weather-info p {
+  margin: 5px 0;
+}
+
+.error {
+  color: red;
+}
